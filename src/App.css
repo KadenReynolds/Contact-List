@@ -13,3 +13,20 @@ th {
   font-size: 1.25em;
   font-weight: bold;
 }
+
+.selectedContactDiv{
+  padding: 10px 20px;
+  background-color: rgb(54, 54, 54);
+  border-radius: 5px;
+}
+
+ul{
+  list-style-type: none;
+}
+
+ul > li {
+  display: inline;
+  padding: 0px 1.75svw;
+  font-size: 1.25em;
+}
+

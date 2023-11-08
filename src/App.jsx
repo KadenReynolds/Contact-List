@@ -12,7 +12,7 @@ function App() {
     )
     :
     (
-    <div>There is a contact selected</div>
+    <SelectedContact selectedContactId={selectedContactId} setSelectedContactId={setSelectedContactId}/>
     )
   }
     </>
